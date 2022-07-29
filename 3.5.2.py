@@ -1,3 +1,3 @@
 import math
-r = int(input())
+r = float(input())
 print(math.pi * 2 * r)
